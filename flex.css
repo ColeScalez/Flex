@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    min-height: 600px;
+    border: 6px solid black;
+    align-items: start;
+    flex-wrap: wrap-reverse;
+    gap: 20px;
+    
+
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    font-weight: bold;
+    color: aliceblue;
+    margin: 10px;
+    font-size: 30px;
+
+}
